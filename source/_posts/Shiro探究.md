@@ -1,5 +1,5 @@
 ---
-title: "[Hexo] Shiro探究"
+title: "Shiro探究"
 catalog: true
 date: 2019-06-01 20:41:00
 subtitle: "This is about Shiro."
