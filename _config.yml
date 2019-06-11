@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Your Title
-subtitle: This is hexo theme
-author: John Doe
+title: Chris Wu
+subtitle: 个人技术博客
+author: Chris Wu
 language:
 timezone:
 
@@ -19,12 +19,12 @@ permalink_defaults:
 #Custom Setting Start
 
 # Site settings
-SEOTitle: Beantech | 豆科技
-email: beantech@gmail.com
-description: ""
+SEOTitle: Chris的博客
+email: chrisfroggen@foxmail.com
+description: "记录点点滴滴"
 keyword: ""
 header-img: img/header_img/home-bg-2-dark.png
-signature: true #show signature
+signature: false #show signature
 signature-img: img/signature/BeanTechSign-white.png 
 
 
@@ -32,10 +32,10 @@ signature-img: img/signature/BeanTechSign-white.png
 # RSS: false
 # weibo_username:     Demonbaneen
 # zhihu_username:     Demonbane
-github_username:    YenYuHsuan
+github_username:    chrissjay
 # twitter_username:   Demonbane_x
-facebook_username:  YenYuHsuan
-linkedin_username:  yu-hsuan-yen
+#facebook_username:  YenYuHsuan
+#linkedin_username:  yu-hsuan-yen
 
 # Build settings
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
@@ -47,20 +47,20 @@ disqus_username: your-disqus-ID
 # Duoshuo settings
 # duoshuo_username: kaijun
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+#duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
 # Analytics settings
 # Baidu Analytics
 # ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
-ga_track_id: 'UA-XXXXXXXX-X'          # Format: UA-xxxxxx-xx
-ga_domain: yoursite
+#ga_track_id: 'UA-XXXXXXXX-X'          # Format: UA-xxxxxx-xx
+#ga_domain: yoursite
 
 
 # Sidebar settings
 sidebar: true                       # whether or not using Sidebar.
-sidebar-about-description: "Hi, i'm John Doe"
+sidebar-about-description: "ZJU CS"
 sidebar-avatar: img/ironman-draw.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 widgets:
 - featured-tags
@@ -177,5 +177,5 @@ sitemap:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/YenYuHsuan/hexo-theme-beantech.git
-  branch: gh-page
+  repository: https://github.com/chrissjay/blog.git
+  branch: master
