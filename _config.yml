@@ -11,7 +11,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite-url       # Note: don't forget to modify the CNAME file to your url
+url: http://wuhanjie.cn       # Note: don't forget to modify the CNAME file to your url
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -23,7 +23,7 @@ SEOTitle: Chris的博客
 email: chrisfroggen@foxmail.com
 description: "记录点点滴滴"
 keyword: ""
-header-img: img/header_img/home-bg-2-dark.png
+header-img: img/header_img/SERENE Morning.jpg
 signature: false #show signature
 signature-img: img/signature/BeanTechSign-white.png 
 
@@ -61,7 +61,7 @@ disqus_username: your-disqus-ID
 # Sidebar settings
 sidebar: true                       # whether or not using Sidebar.
 sidebar-about-description: "ZJU CS"
-sidebar-avatar: img/ironman-draw.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/chris.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 widgets:
 - featured-tags
 - short-about
