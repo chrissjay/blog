@@ -86,12 +86,6 @@ friends: [
     {
         title: "My CSDN blog",
         href: "https://blog.csdn.net/chrissw/"
-    },{
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
-    },{
-        title: "It Helps SEO",
-        href: "#"
     }
 ]
 
