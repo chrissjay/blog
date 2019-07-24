@@ -1,5 +1,5 @@
 ---
-title: "一致性协议之2PC/3PC"
+title: "分布式一致性实现之2PC/3PC"
 catalog: true
 date: 2019-07-14 15:50:00
 subtitle: "This is about 2PC/3PC"
