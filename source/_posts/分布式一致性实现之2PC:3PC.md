@@ -12,9 +12,7 @@ catagories:
 
 ---
 
-之前制作网站的时候使用了Apache Shiro进行登录验证/
-
-约定：我们将提议的节点称为协调者(coordinator)，其他参与决议节点称为参与者(participants, 或cohorts)**
+**约定：我们将提议的节点称为协调者(coordinator)，其他参与决议节点称为参与者(participants, 或cohorts)**
 
 ## 一.2阶段提交(tow phase commit)
 
@@ -24,13 +22,11 @@ catagories:
 
 - 准备阶段（投票阶段）
 
-![2D3A95C2-DE36-4956-9C25-0838D474B36B](/var/folders/6h/wcw9l26x2yb9j890h9ldlhcm0000gn/T/ro.nextwave.Snappy/ro.nextwave.Snappy/2D3A95C2-DE36-4956-9C25-0838D474B36B.png)
+![img](https://img-blog.csdnimg.cn/20190714155526373.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2Nocmlzc3c=,size_16,color_FFFFFF,t_70)
 
 - 提交阶段（执行阶段）
 
-
-
-![F7A58383-DF9A-457D-BD20-71891035F842](/var/folders/6h/wcw9l26x2yb9j890h9ldlhcm0000gn/T/ro.nextwave.Snappy/ro.nextwave.Snappy/F7A58383-DF9A-457D-BD20-71891035F842.png)
+![img](https://img-blog.csdnimg.cn/20190714155604707.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2Nocmlzc3c=,size_16,color_FFFFFF,t_70)
 
 ### 2.缺点
 
