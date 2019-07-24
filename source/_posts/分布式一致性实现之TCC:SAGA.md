@@ -2,7 +2,7 @@
 title: "分布式一致性实现之TCC/SAGA"
 catalog: true
 date: 2019-07-24 18:50:00
-subtitle: "This is about 2PC/3PC"
+subtitle: "This is about TCC/SAGA"
 header-img: "Demo.png"
 tags:
 - 一致性协议
