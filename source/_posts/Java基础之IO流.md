@@ -12,7 +12,7 @@ catagories:
 
 # Java基础之IO/流
 
-![0A65C698-5BAA-466F-B6A5-B3CBEB0CFA10](../pic/0A65C698-5BAA-466F-B6A5-B3CBEB0CFA10.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190801233719954.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2Nocmlzc3c=,size_16,color_FFFFFF,t_70)
 
 ## 1.字节，字符，缓冲流
 
