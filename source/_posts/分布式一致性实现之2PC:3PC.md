@@ -9,7 +9,6 @@ tags:
 - 2PC/3PC
 catagories:
 - 事务一致性
-
 ---
 
 **约定：我们将提议的节点称为协调者(coordinator)，其他参与决议节点称为参与者(participants, 或cohorts)**
