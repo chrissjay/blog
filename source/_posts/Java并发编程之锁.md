@@ -14,7 +14,7 @@ catagories:
 
 # Java并发编程之锁
 
-![271147386096273](./pic/271147386096273.png)
+![å¨è¿éæå¥å¾çæè¿°](https://img-blog.csdnimg.cn/20190811234341479.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2Nocmlzc3c=,size_16,color_FFFFFF,t_70)
 
 ## 1.AQS
 
