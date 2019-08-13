@@ -1,5 +1,5 @@
 ---
-title: "同步/多线程之基础多线程"
+title: "Java并发编程之基础多线程"
 catalog: true
 date: 2019-05-08 15:21:00
 subtitle: "This is about 多线程."
@@ -12,7 +12,7 @@ catagories:
 ---
 
 
-# 同步/多线程之基础多线程
+# Java并发编程之基础多线程
 
 ## 1.操作系统进程/线程状态
 
