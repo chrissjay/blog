@@ -1,5 +1,5 @@
 ---
-title: "JVM之类加载机制"
+title: "JVM之内部结构"
 catalog: true
 date: 2019-05-19 23:10:41
 subtitle: "This is about JVM."

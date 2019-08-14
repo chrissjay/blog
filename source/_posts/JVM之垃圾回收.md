@@ -1,5 +1,5 @@
 ---
-title: "JVM之类加载机制"
+title: "JVM之垃圾回收"
 catalog: true
 date: 2019-05-24 11:20:12
 subtitle: "This is about JVM."
